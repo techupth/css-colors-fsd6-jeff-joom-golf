@@ -1,1 +1,11 @@
 /* Start coding here */
+body {
+  background: linear-gradient(135deg, hsl(0, 100%, 70%), hsl(240, 100%, 70%));
+}
+
+.contianer {
+  background: hsla(0, 50%, 100%, 0.5);
+  text-align: center;
+  padding: 40px;
+  margin: 350px;
+}
